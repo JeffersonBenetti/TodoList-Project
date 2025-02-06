@@ -5,7 +5,8 @@ import { BsListCheck, BsPlusCircle, BsCheckCircle, BsTrash3, BsJournalPlus  } fr
 export const Container = styled.div`
     background: #2a2a2a;
     width: 100vw;
-    height: 100vh;
+    min-height: 100vh;
+    padding-bottom: 80px;
 `
 
 export const Mask = styled.div`
