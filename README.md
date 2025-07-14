@@ -5,8 +5,8 @@ Aplicação de **lista de tarefas (To‑Do List)** desenvolvida com **React** e 
 ---
 
 ## 🔗 Links
-- **🔴 Projeto online:** [todo-list-ecru-seven-61.vercel.app](https://todo-list-ecru-seven-61.vercel.app)  
-- **📦 Linkedin:** (https://www.linkedin.com/in/jeffersonbenetti/)
+- **🔴 Projeto online:** <a href="https://todo-list-jb.netlify.app/">https://todo-list-jb.netlify.app/</a> 
+- **📦 Linkedin:** <a href="https://www.linkedin.com/in/jeffersonbenetti/">https://www.linkedin.com/in/jeffersonbenetti/</a> 
 
 ---
 
